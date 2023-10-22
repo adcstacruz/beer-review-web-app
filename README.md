@@ -36,4 +36,8 @@ pip install -r requirements.txt
 streamlit run beer_style_app.py
 ```
 
-### Running online
+## Running online
+
+1. Open in streamlit community cloud
+2. Run beer streamlit app. Follow the screenshot below: 
+![Screenshot](streamlit_cloud_screenshot.png)
